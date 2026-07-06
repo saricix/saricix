@@ -40,7 +40,7 @@
 ---
 
 # About Me
-I'm a **15** y/o student doing **hobby** projects, I prefer using **linux**, but mostly I develop softwares in Windows.
+I'm a **15** y/o student doing **hobby** projects, I prefer using **linux**, but mostly I develop softwares in **Windows**.
 I'm using **Arch Linux** and **Windows 11**.
 
 ## I love to..
