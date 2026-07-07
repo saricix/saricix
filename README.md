@@ -33,7 +33,7 @@
 
 <div align = "center">
 
-**[ Website ](https://bdstack15.is-a.dev)** | **[ Projects ](https:///bdstack15.is-a.dev)** | **[ My Github ](https://github.com/saricix)**
+**[ Website ](https://bdstack15.is-a.dev)** | **[ Projects ](https://github.com/saricix)** | **[ My Github ](https://github.com/saricix)**
 
 </div>
 
