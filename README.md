@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Emre Demir</h1>
-<h3 align="center">My name is Emrah Demirci, I live in Switzerland, I am 19 years old, and I work in web design, graphic design, automation, mobile application development, and DevOps systems.</h3>
+<h3 align="center">My name is Emre Demir, I live in Switzerland, I am 19 years old, and I work in web design, graphic design, automation, mobile application development, and DevOps systems.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=emredm1821&label=Profile%20views&color=0e75b6&style=flat" alt="emredm1821" /> </p>
 
